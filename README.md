@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshang11/ARRAYS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshang11/ARRAYS/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/varshang11/ARRAYS/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/varshang11/ARRAYS/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/varshang11/ARRAYS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/varshang11/ARRAYS/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
