@@ -13,19 +13,19 @@ public:
         // }
         // return -1;
 
-        unordered_map<int,int> freq;
-        for(int num:nums)
-            freq[num]++;
-        for(auto it:freq){
-            if(it.second==1)
-                return it.first;
-        }
-        return -1;
-
-        // int ans=0;
-        // for(int num:nums){
-        //     ans^=num;
+        // unordered_map<int,int> freq;
+        // for(int num:nums)
+        //     freq[num]++;
+        // for(auto it:freq){
+        //     if(it.second==1)
+        //         return it.first;
         // }
-        // return ans;
+        // return -1;
+
+        int ans=0;
+        for(int num:nums){
+            ans^=num;
+        }
+        return ans;
     }
 };
