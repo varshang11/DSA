@@ -1,7 +1,6 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-
         int n=nums.size();
         for(int i=0;i<n;i++){
             int count=0;
@@ -10,9 +9,10 @@ public:
                     count++;
             }
             if(count==1)
-                return nums[i];  
+                return nums[i];
         }
         return -1;
+        
 
         // int ans=0;
         // for(int num:nums){
