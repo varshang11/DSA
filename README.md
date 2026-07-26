@@ -77,14 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/varshang11/ARRAYS/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/varshang11/ARRAYS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varshang11/ARRAYS/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshang11/ARRAYS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/varshang11/ARRAYS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varshang11/ARRAYS/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshang11/ARRAYS/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/varshang11/ARRAYS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
