@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/varshang11/ARRAYS/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/varshang11/ARRAYS/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshang11/ARRAYS/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/varshang11/ARRAYS/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
