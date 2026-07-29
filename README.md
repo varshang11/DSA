@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/varshang11/ARRAYS/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/varshang11/ARRAYS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/varshang11/ARRAYS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/varshang11/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/varshang11/ARRAYS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varshang11/ARRAYS/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/varshang11/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/varshang11/ARRAYS/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/varshang11/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
