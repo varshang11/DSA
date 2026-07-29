@@ -2,6 +2,18 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
 
+        // int n=nums.size();
+        // for(int i=0;i<n;i++){
+        //     int count=0;
+        //     for(int j=0;j<n;j++){
+        //         if(nums[j]==nums[i])
+        //             count++;
+        //     }
+        //     if(count>n/2)
+        //         return nums[i];
+        // }
+        // return -1;                     //TLE
+
         // unordered_map<int,int> countElement;
         // for(int num:nums)
         //     countElement[num]++;
@@ -12,19 +24,19 @@ public:
         // }
         // return -1;
 
-
         int candidate=0;
         int count=0;
         for(int num:nums){
-            if(num==candidate)
-                count++;
-            else if(count==0){
+            if(count==0)
                 candidate=num;
-                count++;
-            }
-            else
-                count--;
+
+                if(num==candidate)
+                    count++;
+                else
+                    count--;
         }
         return candidate;
+
+       
     }
 };
