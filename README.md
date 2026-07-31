@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshang11/ARRAYS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/varshang11/ARRAYS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varshang11/ARRAYS/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshang11/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
