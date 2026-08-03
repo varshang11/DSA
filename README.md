@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshang11/ARRAYS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/varshang11/ARRAYS/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshang11/ARRAYS/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -131,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
