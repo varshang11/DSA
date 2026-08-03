@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varshang11/ARRAYS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varshang11/ARRAYS/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/varshang11/ARRAYS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/varshang11/ARRAYS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/varshang11/ARRAYS/tree/master/1539-kth-missing-positive-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/varshang11/ARRAYS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/varshang11/ARRAYS/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/varshang11/ARRAYS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varshang11/ARRAYS/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
