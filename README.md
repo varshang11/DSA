@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshang11/ARRAYS/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/varshang11/ARRAYS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/varshang11/ARRAYS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/varshang11/ARRAYS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/varshang11/ARRAYS/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/varshang11/ARRAYS/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshang11/ARRAYS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varshang11/ARRAYS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
