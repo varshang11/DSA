@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshang11/ARRAYS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varshang11/ARRAYS/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshang11/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/varshang11/ARRAYS/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/varshang11/ARRAYS/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshang11/ARRAYS/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/varshang11/ARRAYS/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/varshang11/ARRAYS/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/varshang11/ARRAYS/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
