@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/varshang11/ARRAYS/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/varshang11/ARRAYS/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/varshang11/ARRAYS/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshang11/ARRAYS/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/varshang11/ARRAYS/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/varshang11/ARRAYS/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
