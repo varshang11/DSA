@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/varshang11/ARRAYS/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/varshang11/ARRAYS/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/varshang11/ARRAYS/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/varshang11/ARRAYS/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/varshang11/ARRAYS/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshang11/ARRAYS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/varshang11/ARRAYS/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/varshang11/ARRAYS/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/varshang11/ARRAYS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
