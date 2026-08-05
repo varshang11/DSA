@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/varshang11/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/varshang11/ARRAYS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/varshang11/ARRAYS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/varshang11/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/varshang11/ARRAYS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/varshang11/ARRAYS/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/varshang11/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/varshang11/ARRAYS/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/varshang11/ARRAYS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/varshang11/ARRAYS/tree/master/0451-sort-characters-by-frequency) |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/varshang11/ARRAYS/tree/master/2413-smallest-even-multiple) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/varshang11/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
