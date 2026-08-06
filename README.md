@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/varshang11/ARRAYS/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/varshang11/ARRAYS/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshang11/ARRAYS/tree/master/2769-find-the-maximum-achievable-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/varshang11/ARRAYS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varshang11/ARRAYS/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/varshang11/ARRAYS/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
