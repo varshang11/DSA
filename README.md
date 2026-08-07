@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshang11/ARRAYS/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshang11/ARRAYS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/varshang11/ARRAYS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/varshang11/ARRAYS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/varshang11/ARRAYS/tree/master/0242-valid-anagram) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshang11/ARRAYS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/varshang11/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/varshang11/ARRAYS/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/varshang11/ARRAYS/tree/master/0242-valid-anagram) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/varshang11/ARRAYS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/varshang11/ARRAYS/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/varshang11/ARRAYS/tree/master/1901-find-a-peak-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshang11/ARRAYS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
