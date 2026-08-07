@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varshang11/ARRAYS/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/varshang11/ARRAYS/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/varshang11/ARRAYS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshang11/ARRAYS/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/varshang11/ARRAYS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/varshang11/ARRAYS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshang11/ARRAYS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/varshang11/ARRAYS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/varshang11/ARRAYS/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/varshang11/ARRAYS/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/varshang11/ARRAYS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/varshang11/ARRAYS/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -249,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshang11/ARRAYS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/varshang11/ARRAYS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshang11/ARRAYS/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
